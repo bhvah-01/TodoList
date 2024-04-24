@@ -23,24 +23,5 @@ Creating a simple TodoList App that can help us to see the implementation of CRU
 - Thymeleaf.
 - H2 Database.
 
-## Requirements
-
-- Java 17.
-- Maven.
-- IDE like Intellij IDEA or other.
-
-## Installation
-
-- Download the repository project from the download section or clone this project by typing in the bash the following command: <br>
-```git clone https://github.com/othmane099/TodoList.git```
-- Open it in Intellij IDEA and let maven download the libraries used.
-- Setup H2 Database config in application.properties. 
-- Run the application.
-
-## Contributing
-
-If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed. 
-If you find any issue just put it in the repository issue section, thank you.
-
 
 
